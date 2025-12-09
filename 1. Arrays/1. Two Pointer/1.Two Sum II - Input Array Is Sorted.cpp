@@ -22,6 +22,6 @@ public:
 };
 
 // Time Complexity : O(n) as we are iterating only once
-// Space Complexity : O(n) as we have only fixed set of variables
+// Space Complexity : O(1) as we have only fixed set of variables - constant space
 
 // Link : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
